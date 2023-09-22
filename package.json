@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fake-git-history": "^1.8.0",
     "stripe": "^13.6.0"
   }
 }
